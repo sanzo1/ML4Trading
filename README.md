@@ -9,4 +9,4 @@ A collection of Python programs I wrote to use Machine Learning to do stock mark
 
 * mc3h1_defeat_learners: Explores and generates data sets that demonstrate the strengths and weaknesses of Linear Regression and Random Forests. 
 
-* mc3p2_qlearning_robot: Python implementation of Q-Learning algorithm with Dyna. Q-Learning is a reinforcement learning algorithm that operates on a "model-free" basis. It basically works by running iterative experiments (and, in my case, simulations) based on a reward system to determine the optimal solution. For this project, I implemented Q-Learning to determine the best path out of a given maze design.
+* mc3p2_qlearning_robot: Python implementation of Q-Learning algorithm with Dyna. Q-Learning is a reinforcement learning algorithm that  works by running iterative experiments (and, in my case, simulations) based on a reward system to determine the optimal solution. For this project, I implemented Q-Learning to determine the best path out of a given maze design.
